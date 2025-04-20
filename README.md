@@ -1,5 +1,5 @@
 # github-final-project
-part of IBM Java Developer Professional Certificate
+( a part of IBM Java Developer Professional Certificate )
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
